@@ -5,3 +5,7 @@ Basic C++ calculator module and importing it in Python file
 ```bash
 pip install .
 ```
+# Running 
+```bash
+python calculator/calculator.py
+```
