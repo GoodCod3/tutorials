@@ -9,3 +9,7 @@ pip install .
 ```bash
 python calculator/calculator.py
 ```
+
+# Video tutorial
+
+[![Watch the video](./cpp_in_python.png)](https://youtu.be/C5SguH5V1mI)
